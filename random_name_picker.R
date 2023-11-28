@@ -1,17 +1,17 @@
 library(crayon)
 
-names = c("Group A: Mapping and monitoring wildlife habitate in the high arctic - Kianna & Dimitrios", 
-          "Group B: Use of drone based remote sensing in forestry - Fei, Xinyu & Heyuan", 
-          "Groub C: Remote sensing techniques to monitor oil spills - Sander & Valerie",
-          "Group D: Remote sensing and urban growth monitoring - Skyler & Nora",
-          "Group E: Using Landsat for wildfire risk assessment/monitoring - Michael & Rhythm",
-          "Group F: Remote sensing applications to quantify biodiversity in conservation/reforestation projects - Fitz & Colin",
-          "Group G: Remote sensing of landscape metrics - Wendy, Chenyao & Jessie",
-          "Group H: Glacial time series using remote sensing - Andrea & Axel",
-          "Group I: Applications of SPOT imagery - Stephani & Ashley",
-          "Group J: Nighttime satellite optical imagery for socioeconomic dynamics - Zhenpeng, Zechen, & Victor",
-          "Group K: Object based image classification - Aster, Xuan & Shijing", 
-          "Group L: Mapping kelp using google earth engine, drones, and lidar - Hannah, Han & Gwyn")
+names = c("Group A", 
+          "Group B", 
+          "Group C",
+          "Group D",
+          "Group E",
+          "Group F",
+          "Group G",
+          "Group H",
+          "Group I",
+          "Group J",
+          "Group K", 
+          "Group L",)
 
 colours = c("red", "green", "yellow", "blue", "magenta", "cyan", 
             "white", "silver")
